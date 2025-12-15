@@ -1,0 +1,13 @@
+timm
+opencv-python
+tqdm
+torchstat
+torchsummary
+Pillow
+h5py
+thop
+imageio
+tensorboardX
+scikit-learn
+efficientnet-pytorch
+
